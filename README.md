@@ -2,7 +2,9 @@
 Lista para adicionar tarefas do contidiano.
 
 ## Sobre o projeto
-Esse sistema de listar tarefas tem como objetivo um desafio para uma vaga de estágio, foi solicitado um programa em qualquer linguagem para criar uma lista com tarefas onde as tarefas devem ficar gravadas em um banco de dados. Na tela principal, onde a tabela irá aparecer, não pode haver tarefas com nomes repetidos, caso o valor da tarefa seja maior ou igual a R$ 1000,00 ela deve ficar em destaque com o background amarelo, e podemos reposicionar as tarefas com ajuda e botões.
+Este sistema de listagem de tarefas tem como objetivo atender a um desafio para uma vaga de estágio. Foi solicitado o desenvolvimento de um programa em qualquer linguagem que permita criar uma lista de tarefas, onde cada tarefa seja armazenada em um banco de dados. Na tela principal, onde a tabela será exibida, não deve haver tarefas com nomes repetidos. Além disso, caso o valor da tarefa seja maior ou igual a R$ 1.000,00, ela deverá ser destacada com um fundo amarelo. As tarefas também podem ser reposicionadas com o auxílio de botões.
+
+
 
 ## Tecnologias Utilizadas
 - **PHP**: Utilizado para a parte logica do sistema.
