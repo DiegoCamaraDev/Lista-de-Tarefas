@@ -7,11 +7,11 @@ Este sistema de listagem de tarefas tem como objetivo atender a um desafio para 
 
 
 ## Tecnologias Utilizadas
-- **PHP**: Utilizado para a parte logica do sistema.
+- **PHP**: Utilizado para a parte lógica do sistema.
 - **Mysql**: Utilizado para criação do banco de dados.
 - **HTML/CSS**: Utilizados para marcação e estilização da pagina principal.
 
-- ## Funionalidades:
+- ## Funcionalidades:
 - **Criar Tarefas**: Permite Criar tarefas e adiciona-las a lista.
 - **Editar Tarefa**: Permite atualizar dados da tarefa depois que salva.
 - **Deletar Tarefa**: Permite apagar um item especifico da lista de tarefas.
